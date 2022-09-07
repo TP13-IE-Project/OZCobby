@@ -1,0 +1,783 @@
+# Big Bob Theme.
+# Copyright (C) 2020 - 2021
+# This file is distributed under the same license as the Big Bob package.
+msgid ""
+msgstr ""
+Project-Id-Version: Big Bob 2.7.4\n"
+"Report-Msgid-Bugs-To: https://bigbobnetwork.com/\n"
+"POT-Creation-Date: 2021-07-02 11:26-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:33
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:37
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:46
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:64
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:49
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:146
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:149
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:155
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:132
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:134
+msgid ""
+"A sidebar will only be displayed when widgets are used.  You can find "
+"additional sidebar options\n"
+"\t\t\tin the <i>Navigation</i> section and the <i>Body and Sidebar Style</i> "
+"section."
+msgstr ""
+
+#: functions.php:144
+msgid "Footer"
+msgstr ""
+
+#: functions.php:146
+msgid "These will be entered into footer at the bottom of the page."
+msgstr ""
+
+#: header.php:26
+msgid "<h1>Loading...</h1><h2>(Just one moment)</h2>"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:64
+msgid "Backgroound Image"
+msgstr ""
+
+#: search.php:31
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:29
+msgid "Previous:"
+msgstr ""
+
+#: single.php:30
+msgid "Next:"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid ""
+"This feature only works when a logo is used and the site title and \n"
+"    tagline are being displayed.  You can find these options in the site "
+"identity section."
+msgstr ""
+
+#: inc/customizer.php:18
+msgid ""
+"The big-bob theme is designed to maximize the size of any header image \n"
+"        or header video while minimizing distortion regardless of the screen "
+"size or the header media's dimensions.  \n"
+"        <b> You should feel free to utilize horizontally or vertically or "
+"squarely defined images or videos.</b>\n"
+"        If you choose both an image and a video, the image will load first "
+"then the video will replace it.  Header media is only displayed \n"
+"        on your homepage."
+msgstr ""
+
+#: inc/customizer.php:25
+msgid ""
+"This has no effect on the display of the logo.  This feature \n"
+"    looks best when <u>Center Navbar</u> has been switched on in the "
+"<u>Navigation</u> section."
+msgstr ""
+
+#: inc/customizer.php:27
+msgid ""
+"Black or a dark color works best when the theme is in the default\n"
+"    setting.  White or a light color works best when the theme is in bright "
+"mode."
+msgstr ""
+
+#: inc/customizer.php:30
+msgid ""
+"Please note that the background image is \n"
+"    distinct from header images which can be set to the background.  The "
+"background image is also\n"
+"    distinct from featured images which are set to the background.  \n"
+"    You can use this section to create a background image if\n"
+"    you want the same background image on every page or if you want to use a "
+"background image on your feed pages (like your posts page).\n"
+"    It is recommended that you turn the <i>Background Copy</i> <b>ON</b>\n"
+"    to maximize the <u>mobile compatibilty</u> of your background image.  \n"
+"    The <i>Background Copy</i> control and the <i>Background Copy All Pages</"
+"i> control \n"
+"    must be turned <b>OFF</b> if you want to use the legacy background image "
+"with traditonal styling controls.  \n"
+"    The <i>Background Copy</i> controls have been added to create more "
+"control over background image placement and to create \n"
+"    more <u>mobile friendly</u> images.  The rest of the controls are "
+"available for legacy purposes and are only recommended for advanced\n"
+"    users."
+msgstr ""
+
+#: inc/customizer.php:42
+msgid ""
+"YouTube adds extra negative space to its videos,\n"
+"    so your background color may include black in the header.  You should "
+"also be aware that some browsers do not support \n"
+"    YouTube's autoplay feature, so it is recommended that you set the <u>Set "
+"Header Media to Background</u> control in the\n"
+"    <u>Header Media Options</u>section to OFF."
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Use a YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid ""
+"If you intend to set the background image so that it does <u>not</u>\n"
+"    scroll with the page (default setting), then you should use the controls "
+"at the top of this section to make sure that it is \n"
+"    <u>mobile friendly</u>.\n"
+"    The controls below (other than the select image control) are only "
+"recommended for advanced users.  They exist for legacy purposes."
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:66 inc/customizer.php:85 inc/customizer.php:110
+#: inc/customizer.php:133 inc/customizer.php:157 inc/customizer.php:181
+#: inc/customizer.php:205 inc/customizer.php:229 inc/customizer.php:253
+#: inc/customizer.php:295 inc/customizer.php:342 inc/customizer.php:365
+#: inc/customizer.php:389 inc/customizer.php:409 inc/customizer.php:433
+#: inc/customizer.php:455 inc/customizer.php:480 inc/customizer.php:505
+#: inc/customizer.php:529 inc/customizer.php:558 inc/customizer.php:585
+#: inc/customizer.php:609 inc/customizer.php:633 inc/customizer.php:653
+#: inc/customizer.php:700 inc/customizer.php:727 inc/customizer.php:1089
+#: inc/customizer.php:1158
+msgid "On"
+msgstr ""
+
+#: inc/customizer.php:67 inc/customizer.php:86 inc/customizer.php:111
+#: inc/customizer.php:134 inc/customizer.php:158 inc/customizer.php:182
+#: inc/customizer.php:206 inc/customizer.php:230 inc/customizer.php:254
+#: inc/customizer.php:296 inc/customizer.php:343 inc/customizer.php:366
+#: inc/customizer.php:390 inc/customizer.php:410 inc/customizer.php:434
+#: inc/customizer.php:456 inc/customizer.php:481 inc/customizer.php:506
+#: inc/customizer.php:530 inc/customizer.php:559 inc/customizer.php:586
+#: inc/customizer.php:610 inc/customizer.php:634 inc/customizer.php:656
+#: inc/customizer.php:701 inc/customizer.php:728 inc/customizer.php:1090
+#: inc/customizer.php:1159
+msgid "Off"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "This turns the prelaoder on and off."
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Big Tagline Only"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid ""
+"This is only active when there is a logo and the <b>Display Site Title and "
+"Tagline</b> option is checked.\n"
+"    When this is on the title will not be displayed, and the tagline will "
+"become big, and it will be set to the left on\n"
+"    screens that are wider and taller."
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Big Tagline Small Text"
+msgstr ""
+
+#: inc/customizer.php:114
+msgid "If Big Tagline Only is turned on then this will make the text smaller."
+msgstr ""
+
+#: inc/customizer.php:137
+msgid ""
+"This will change the different sections of the site into black text on a "
+"white background.\n"
+"    It is recommended that you update the background color to white or a "
+"bright color if you use this mode."
+msgstr ""
+
+#: inc/customizer.php:161
+msgid ""
+"This will render the body, sidebar, slidepanel, and footer as opaque.  And "
+"it will\n"
+"    render the navbar as opaque when you scroll down the screen."
+msgstr ""
+
+#: inc/customizer.php:185
+msgid ""
+"This will render the navbar and title messages as opaque when they\n"
+"    are at the top of the screen."
+msgstr ""
+
+#: inc/customizer.php:209
+msgid ""
+"You may find that in dark (default) mode some link colors are a little "
+"difficult to read over some\n"
+"    background images.  If you find this to be true, then you can turn this "
+"on to resolve the problem."
+msgstr ""
+
+#: inc/customizer.php:233
+msgid ""
+"This creates a shadow effect around the different sections of your site and "
+"changes the style of shadow effect\n"
+"    behind the hamburger menu site title."
+msgstr ""
+
+#: inc/customizer.php:257
+msgid ""
+"This will add or remove a shadow from behind the title if a title is "
+"displayed in the navbar.\n"
+"    There is no shadow effect available if a logo is displayed."
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "This  will change the color of all the links."
+msgstr ""
+
+#: inc/customizer.php:299
+msgid ""
+"This will turn on a hover color on screens greater than 1065px in width\n"
+"        (screens that commonly use a cursor)."
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "This  will change the hover color of all the links."
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Header Media Options"
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "Set Header Media to Background"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid ""
+"Turning this on will cause the header media to stay in place and the text to "
+"scroll over the top of the media."
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "Show Header Video On Mobile"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid ""
+"Turns off the video for mobile devices with small screen sizes (a width of "
+"less than 1050 pixels).  \n"
+"    The item loaded (image or video) is based on the width when the site "
+"loads."
+msgstr ""
+
+#: inc/customizer.php:393
+msgid ""
+"Fills the header image across the entire screen.  Some images may require "
+"you\n"
+"    to set the header media to the background."
+msgstr ""
+
+#: inc/customizer.php:413
+msgid ""
+"This sets a copy of your background image that is centered on your screen in "
+"a fixed position\n"
+"    on your feed pages (like your posts page). This also turns off your "
+"legacy background image."
+msgstr ""
+
+#: inc/customizer.php:437
+msgid ""
+"This transforms the background copy so that it expands across the entire "
+"screen and is centered.  However, depending\n"
+"    on the window size, some of the image may be cut off.  It is distinct "
+"from the default image setting because it is \n"
+"    <u>mobile friendly</u>.  This control only works if the Background Copy "
+"control or the Background Copy All control\n"
+"    (one of the two controls above) is <b>ON</b>."
+msgstr ""
+
+#: inc/customizer.php:459
+msgid ""
+"This will turn on the background copy for every page.  \n"
+"    This also turns off your legacy background image."
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid ""
+"If a sidebar is being used then turning this on will cause the sidebar to "
+"shrink in size if it is big \n"
+"    and become its own window with its own scrollbar, and it will stick into "
+"position when you scroll down the screen."
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Sticky Navbar On Phone"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid ""
+"Turning this off will remove most of the navbar  (except the menu button) "
+"when scrolling down phone screens \n"
+"    (screens with a width less than 500px).  All that will remain is the "
+"menu button."
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Sticky Navbar On Mobile"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid ""
+"Turning this off will remove most of the navbar  (except the menu button) "
+"when scrolling down mobile screens \n"
+"    (screens with a width less than 1065px).  All that will remain is the "
+"menu button."
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Strict Style"
+msgstr ""
+
+#: inc/customizer.php:562
+msgid ""
+"Turning this on will create a more center aligned style within the body and "
+"sidebar of the page.\n"
+"    Blocks are more compact on large screens and wider on small screens., "
+"and you should have improved compatibility with fonts.\n"
+"    If you turn this on, then you may find that you don't have to meet as "
+"many style\n"
+"    requirements when styling your page, however you may find that some of "
+"your existing style choices (like if you use a \n"
+"    child theme) have been overridden. New style updates may be added as "
+"they are neeeded."
+msgstr ""
+
+#: inc/customizer.php:580
+msgid "Highlight Featured Images and Videos"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid ""
+"This will move the text down the width of the screen on single pages and "
+"posts\n"
+"    so that feaured images and videos receive more exposure."
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Pages Wide When Centered"
+msgstr ""
+
+#: inc/customizer.php:613
+msgid ""
+"This will widen the width of the body to the full width of the screen on "
+"pages (not posts) when the \n"
+"    sidebar isn't present."
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "Excerpt Mode"
+msgstr ""
+
+#: inc/customizer.php:637
+msgid ""
+"This will turrn off excerpt mode for the post and archive results pages, but "
+"it will leave it on\n"
+"    for the search results page."
+msgstr ""
+
+#: inc/customizer.php:648
+msgid "Turn Off Sidebar for Static Pages"
+msgstr ""
+
+#: inc/customizer.php:654
+msgid "Home Only"
+msgstr ""
+
+#: inc/customizer.php:655
+msgid "Except Home"
+msgstr ""
+
+#: inc/customizer.php:659
+msgid ""
+"Turning this on will turn off the sidebar for any page that is created as a "
+"page (as opposed to a post),\n"
+"    but it will keep your sidebar active for all other pages of your site "
+"(posts, search results, archives, etc.).  Note that if\n"
+"    you choose <u>Home Only</u> or <u>Except Home</u>, your homepage must be "
+"defined as a static page in <u>Homepage Settings</u>."
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "You can use this section to set a background video."
+msgstr ""
+
+#: inc/customizer.php:678
+msgid "Load a Background Video to Your Feed Pages."
+msgstr ""
+
+#: inc/customizer.php:681
+msgid ""
+"The default setting will add a background video to your feed pages \n"
+"        like your posts page or your search results page.  If you want to "
+"add the background video to every page, then you can \n"
+"        you can turn on the Background Video All button down below.\n"
+"        If you want to add a different background video to other pages, you "
+"can add a header video or a featured video.\n"
+"        Please visit bigbobnetwork.com/demo for instructions on creating "
+"featured videos."
+msgstr ""
+
+#: inc/customizer.php:695
+msgid "Background Video All"
+msgstr ""
+
+#: inc/customizer.php:704
+msgid "Turning this on will set the background video to all of your pages."
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "Social/Footer"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid ""
+"Add the requested data (URL, email address, etc.).\n"
+"        Otherwise, leave the entry forms completely blank.  You can also add "
+"widgets to the footer in\n"
+"        the <i>Widgets</i> section."
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Show Footer"
+msgstr ""
+
+#: inc/customizer.php:731
+msgid ""
+"Turning this off will completely remove the footer and the back to top "
+"button."
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/customizer.php:806 inc/customizer.php:820 inc/customizer.php:834
+#: inc/customizer.php:848 inc/customizer.php:862 inc/customizer.php:876
+#: inc/customizer.php:890 inc/customizer.php:904 inc/customizer.php:918
+#: inc/customizer.php:932
+msgid ""
+"If you leave the form blank, then nothing will be shown,\n"
+"                but if you add the URL, then it will create a hyperlink "
+"using\n"
+"                the requisite icon."
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:830
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:844
+msgid "GitHub URL"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php:872
+msgid "WordPress URL"
+msgstr ""
+
+#: inc/customizer.php:886
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:900
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/customizer.php:914
+msgid "Yelp URL"
+msgstr ""
+
+#: inc/customizer.php:928
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:942
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:946
+msgid ""
+"If you leave the form blank, then nothing will be shown,\n"
+"                but if you write in an email address, then it will create an "
+"email icon opening the user's\n"
+"                default email app with the supplied address."
+msgstr ""
+
+#: inc/customizer.php:956
+msgid "Physical Address Line 1"
+msgstr ""
+
+#: inc/customizer.php:960 inc/customizer.php:973 inc/customizer.php:986
+msgid ""
+"If you leave the form blank, then nothing will be shown,\n"
+"                but if you write something, then it will print exactly what "
+"you wrote to the footer."
+msgstr ""
+
+#: inc/customizer.php:969
+msgid "Physical Address Line 2"
+msgstr ""
+
+#: inc/customizer.php:982
+msgid "Physical Address Line 3"
+msgstr ""
+
+#: inc/customizer.php:995
+msgid "Map URL"
+msgstr ""
+
+#: inc/customizer.php:999
+msgid ""
+"You can use this to add the URL of an address, and a map link icon will be "
+"added.\n"
+"                For example, you can look up your business on Google Maps "
+"then copy and paste \n"
+"                the address from the address bar from the page where your "
+"business is mapped."
+msgstr ""
+
+#: inc/customizer.php:1008
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:1010
+msgid ""
+"You can use this to update the default fonts using the fonts\n"
+"        from the google fonts api (https://fonts.google.com/).  If you want "
+"to add a new font, \n"
+"        then you need to use the exact letter casing and spacing.  You "
+"should be able to achieve this \n"
+"        by copying and pasting the name of the font directly from the google "
+"fonts site.  \n"
+"        Because the Google font library is so large, you will\n"
+"        find that some fonts are more compatible than others.  You may find "
+"it helpful to turn on\n"
+"        strict style in the <i>body and sidebar</i> section of this "
+"customizer."
+msgstr ""
+
+#: inc/customizer.php:1027
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer.php:1066
+msgid "Everything Else"
+msgstr ""
+
+#: inc/customizer.php:1084
+msgid "Center Navbar"
+msgstr ""
+
+#: inc/customizer.php:1093
+msgid ""
+"This will center the contents of the navbar on wide screens and remove the "
+"tagline from the navbar \n"
+"    if it is being shown.  Note that the navbar will not recede when the wp "
+"admin bar is at the\n"
+"    top of the screen."
+msgstr ""
+
+#: inc/customizer.php:1108
+msgid "Menu Size"
+msgstr ""
+
+#: inc/customizer.php:1113 inc/customizer.php:1135
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:1114 inc/customizer.php:1136
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer.php:1115 inc/customizer.php:1137
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:1118
+msgid "This will change the size of the menu items in your navbar."
+msgstr ""
+
+#: inc/customizer.php:1130
+msgid "Menu Spacing"
+msgstr ""
+
+#: inc/customizer.php:1140
+msgid "This will change the spacing between your menu items."
+msgstr ""
+
+#: inc/customizer.php:1153
+msgid "Add Tagline When Title is Centered"
+msgstr ""
+
+#: inc/customizer.php:1162
+msgid ""
+"This will add the tagline back into the navbar when the navbar title is "
+"centerd.  \n"
+"    The tagline will stil appear below the navbar if a logo is used."
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:84
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:69 template-parts/content.php:96
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:82
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
