@@ -1,0 +1,141 @@
+/*
+Theme Name: Styx
+Author: Limitless Themes
+Description: Styx Theme is a modern multipurpose lightweight yet full featured WordPress theme for creating beautiful fast loading and accessible websites, easier than ever. The theme perfectly suited for business, beauty & spa salons, photography, blog, magazines, architecture, interior design, decoration, furniture, home decor, construction, corporate, agency, business promotion, industries, gym, law firms, education & schools, university, restaurant & hotels, travel agency, hospital medical care, and many other websites compatible. The theme is fully responsive and compatible with popular WordPress plugins like Elementor Page Builder, Brizy, Beaver Builder, Visual Composer, Gutenberg, Block-Enabled, Polylang, WPML, Yoast SEO, Jetpack, Contact Form 7, Mailchimp for WordPress, WPForms, Google Analytics and more. The theme offers a variety of theme options is SEO optimized, and compatible with every modern browser.
+Requires at least: 5.2
+Tested up to: 5.8
+Requires PHP: 5.6
+Version: 1.0.8
+License:      GNU General Public License version 3
+License URI:  http://www.opensource.org/licenses/gpl-license.php GPL v3.0 (or later)
+Tags: blog, entertainment, food-and-drink , grid-Layout, one-column, two-columns, flexible-header, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, theme-options, sticky-post, threaded-comments, translation-ready, featured-images, full-width-template
+Text Domain: styx
+ */
+
+body {
+    box-sizing: border-box;
+    background: red;
+}
+
+.styx-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.styx-archive-pagination__container .pagination {
+    display: block;
+}
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+    background-color: #eee;
+    clip: auto !important;
+    clip-path: none;
+    color: #444;
+    display: block;
+    font-size: 1em;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+    /* Above WP toolbar. */
+}
+.gallery-caption {
+
+}
+.bypostauthor {
+
+}
+

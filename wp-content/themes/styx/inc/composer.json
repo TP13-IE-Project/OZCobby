@@ -1,0 +1,10 @@
+{
+  "name": "expressthemes/styx-theme",
+  "license": "GPL",
+  "autoload": {
+    "psr-4": {
+      "Styx\\": "src/"
+    }
+  },
+  "description": ""
+}
