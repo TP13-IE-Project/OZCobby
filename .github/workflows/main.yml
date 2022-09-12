@@ -1,0 +1,21 @@
+on: 
+  push:
+    branches:
+      - main
+name: Production Deploy
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to Wordpress
+      uses: actions/checkout@v2
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.3.2
+      with:
+        server: waws-prod-ml1-031.ftp.azurewebsites.windows.net
+        port: 990
+        username: ozcobby\$ozcobby
+        password: 6qa1fixiGm5RAmfaFn8GZtN9tcNqBwjrQc8nvQgnC6jmfvXcmJaWjwZSmm1q
+        protocol: ftps
