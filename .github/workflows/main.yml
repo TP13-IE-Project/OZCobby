@@ -18,4 +18,4 @@ jobs:
         port: 990
         username: ozcobby\$ozcobby
         password: 6qa1fixiGm5RAmfaFn8GZtN9tcNqBwjrQc8nvQgnC6jmfvXcmJaWjwZSmm1q
-        protocol: sftp
+        protocol: ftp
