@@ -2,6 +2,7 @@
 /*
 /*/
 !wp-content/
+!.github/
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
