@@ -14,7 +14,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: ftp://waws-prod-ml1-031.ftp.azurewebsites.windows.net/site/wwwroot
+        server: ftp://waws-prod-ml1-031.ftp.azurewebsites.windows.net/
+        server-dir: site/wwwroot/
         port: 990
         username: ozcobby\$ozcobby
         password: 6qa1fixiGm5RAmfaFn8GZtN9tcNqBwjrQc8nvQgnC6jmfvXcmJaWjwZSmm1q
